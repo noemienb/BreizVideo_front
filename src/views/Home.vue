@@ -1,7 +1,7 @@
 <template>
 <Page>
   <div class="home">
-    <img alt="Vue logo" src="../assets/van.png">
+  
     <HelloWorld msg="Breizh Vidéo prend la route"/>
 
   </div>

@@ -1,6 +1,8 @@
 <template>
 	<Page>
 		<div class="content">Village</div>
+
+
 	</Page>
 </template>
 

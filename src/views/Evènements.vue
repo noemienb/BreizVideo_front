@@ -1,7 +1,9 @@
 <template>
 	<Page>
 		<div class="content"></div>
+		
 	</Page>
+	
 </template>
 
 <script>
