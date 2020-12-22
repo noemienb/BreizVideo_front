@@ -1,24 +1,12 @@
 # test1
 
-## Project setup
-```
-npm install
-```
+-faire une maquette avec Figma pour avoir une vue d ensemble
+-utilisation de vue js 
+Vs code ide (je le deteste)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Pb de ordi donc perte de temps et retard non rattrapable
+Bref c était sympas 
