@@ -4,7 +4,7 @@
 		<NavLeftItem route="/Village" label="Village"></NavLeftItem>
 		<NavLeftItem route="/Evènements" label="Evènements"></NavLeftItem>
 		<NavLeftItem route="/Films" label="Films"></NavLeftItem>
-		<NavLeftItem route="/About" label="About"></NavLeftItem>
+		
 		<NavLeftItem route="/Contacts" label="Contacts"></NavLeftItem>
 	</nav>
 </template>

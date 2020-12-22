@@ -1,6 +1,7 @@
 <template>
 	<div class="barretop">
 
+
 <div class="entreprise">Breizh Vidéo prend la route</div>
 
 	</div>
@@ -15,8 +16,12 @@
 
 <style scoped>
 	.barretop {
-		height: 50px;
+		height: 96px;
 		background-color: #8B83BA;
+		background-image:src="../assets/van.png";
+		background-size: cover;
+		
+	
 	}
 
 
@@ -34,5 +39,12 @@ font-size: 49px;
 line-height: 65px;
 
 color: #34313A;	
+	}
+
+	.img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+		margin: auto;
 	}
 </style>
